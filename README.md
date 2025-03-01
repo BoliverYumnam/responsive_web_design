@@ -2,7 +2,7 @@
       1. p_1_1(html CatPhotoApp project), 
       2. p_1_2(basic css CafeMenu project), 
       3. p_1_3(advanced css, use of markers), 
-      4. p_1_4(registration for project), 
+      4. p_1_4(registration form project), 
       5. p_1_5(survey form project)
 
 #project2 projects : 
